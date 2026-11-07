@@ -1,0 +1,9 @@
+{
+  "appId": "com.accessory.manager",
+  "appName": "مدیریت کالای جانبی",
+  "webDir": "www",
+  "backgroundColor": "#fbf8ff",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
